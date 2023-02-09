@@ -8,7 +8,7 @@ import time
 import pyperclip
 import os
 
-#
+
 class MainWindow:
     def __init__(self, master):
         self.master = master
